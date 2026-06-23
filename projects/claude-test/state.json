@@ -1,0 +1,48 @@
+{
+  "project": "claude-test",
+  "current_phase": "requirements",
+  "phases": {
+    "requirements": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "external-design": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "internal-design": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "implementation": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "review": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "functional-qa": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "non-functional-qa": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    },
+    "release": {
+      "status": "pending",
+      "retry_count": 0,
+      "blocked_reason": null
+    }
+  },
+  "artifacts": {},
+  "updated_at": "2026-06-23T23:27:00Z"
+}
